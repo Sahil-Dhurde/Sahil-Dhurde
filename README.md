@@ -2,7 +2,7 @@
 
 ## 🚀 Aspiring Software Engineer | AI & Full-Stack Enthusiast
 
-🎓 Diploma Student in Computer Engineering
+Computer Engineering Student :
 
 🏆 Academic Excellence
 - Scored 95%+ in Diploma Studies
@@ -16,8 +16,6 @@
 ## 🤖 AI & Automation Skills
 
 - Artificial Intelligence & Machine Learning
-- Prompt Engineering
-- AI Workflow Automation
 - n8n Automation
 - Claude AI
 - Computer Vision
@@ -37,7 +35,7 @@
 - Flask
 - Machine Learning
 - Computer Vision
-- AI Content Moderation
+
 
 ### Tools
 - Git & GitHub
@@ -56,7 +54,6 @@
 - A platform that connects students, educators, and institutions for knowledge sharing and academic collaboration.
 - Enables resource exchange, learning opportunities, and educational networking.
 - Focuses on improving access to quality education through technology.
-- Built using modern web technologies and AI-powered features.
 
 ### CRM Database Management System
 - Oracle SQL-based database project
@@ -64,14 +61,14 @@
 
 ## 🌱 Currently Learning
 
-- MERN Stack Development
+- JAVA full Stack Development
 - Data Structures & Algorithms
 
 ## 🎯 2026 Goals
 
 - Contribute to Open Source
 - Secure a Software Development Internship
-- Master MERN Stack & Java Development
+- Master Java Development
 
 
 ## 📫 Connect With Me
